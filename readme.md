@@ -50,7 +50,7 @@ OmniCC - Adds large cooldown text to your buttons.<a href="https://www.curseforg
 <br>
 MiniMapButtonBag - Collects addons with buttons into one icon. <a href="https://www.curseforge.com/wow/addons/mbb" target="_blank">Download</a>
 <br>
-Chatter - Customize and beautify the chat frame a little bit. <a href="https://www.curseforge.com/wow/addons/chatter" target="_blank">Download</a>
+Smart Chat Fade - Aggressively fades the stock chat frame. <a href="https://www.curseforge.com/wow/addons/smart-chat-fade" target="_blank">Download</a>
 <br>
 Masque - Customizable action buttons, skinnable to look like original AzeriteUI buttons. <a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Download</a>
 <br>
