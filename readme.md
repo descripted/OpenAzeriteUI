@@ -60,7 +60,27 @@ Masque: Goldpaw Plugin - Plugin skins by the author of the original, to match fr
 <br>
 <br>
 <h2>Quick-Start Guide</h2>
-coming soon
+Unzip OpenAzeriteUI and all required addons into your [/World of Warcraft/Interface/Addons] directory.
+<br>
+When in game, if you want to move the frames, you'll need to add them to MoveAnything by typing:
+<br>
+<br>
+/move GP_WidgetContainer_1  --- This is the Player frame.
+<br>
+/move GP_WidgetContainer_7 --- This is the Target frame.
+<br>
+/move GP_WidgetContainer_55 --- This is the Target of Target frame.
+<br>
+/move GP_WidgetContainer_49 --- This is the Focus Target frame.
+<br>
+<br>
+/setScale <0-1> --- Sets the UI Scale. For example, "/setScale .95" is shown in the screenshot above.
+<br>
+<br>
+Until I compile a list of all known frame names (or auto-add them with another addon), these should get you started! If you need help using MoveAnything, please see the link in downloads for documentation.
+<br>
+I would highly recommend, if you want pretty bars, chat frames, etc., to please look through the optional downloads above.
+
 <br>
 <br>
 <h2>To-Do List</h2>
