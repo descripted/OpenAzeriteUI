@@ -11,6 +11,23 @@ This UI is highly experimental, and breaks many design features by the original 
 <br>
 <hr>
 <br>
+<h2>Changes from original</h2>
+Replaced Azerite crystal with class resource-colored orbs for a cleaner look.
+<br>
+All frames now moveable! - Disabled randomization process in widget/frame construction. This prevented MoveAnything from being able to grab frame ID's.
+<br>
+Removed action bars completely.
+<br>
+Removed chat customizations.
+<br>
+Removed various incompatability prevention measures.
+<br>
+Cleaned up various legacy items.
+<br>
+<hr>
+<br>
+
+
 <h2>Downloads ---<span style="color:red;font-weight:700;font-size:20px">ITEMS IN RED ARE REQUIRED. Action Buttons are NOT changed by default.</span></h2>
 <span style="color:red;font-weight:700;font-size:15px">Open AzeriteUI </span>- You're already here! <a href="https://github.com/gh0stbrain/OpenAzeriteUI/archive/refs/heads/main.zip" target="_blank">Download</a>
 <br>
@@ -47,4 +64,5 @@ coming soon
 <br>
 <br>
 <h2>To-Do List</h2>
-coming soon
+* Add native frame movement, so we don't need MoveAnything.
+* Rework Goldpaws chat module
