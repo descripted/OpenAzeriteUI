@@ -1,0 +1,79 @@
+## Interface: 90200
+
+## Title: OpenAzeriteUI
+## Notes: Open graphical interface based on AzeriteUI. Donate to original authors here: |n|nDesign by Daniel Troko and Lars Norberg.|nCode by Lars Norberg.|n|n|cff4488ffPayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/GoldpawsStuff|r|n|n|cff4488ffPatreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/GoldpawsStuff|r
+## Version: 3.2.523-Release
+## Author: gh0stbrain, Daniel Troko, Lars Norberg
+
+## X-Category: Interface Enhancements
+## X-Curse-Project-ID: 298648
+## X-Wago-ID: R4N2PZKL
+## X-License: Custom
+
+## SavedVariables: AzeriteUI_DB
+## OptionalDeps: Clique
+
+# General taint fixes
+TaintLess.xml
+
+# Global Fonts
+FontStyles.xml
+
+
+# Addon libraries & plugins, the main engine of it all.
+back-end\wheel.lua
+back-end\libraries.xml
+back-end\plugins.xml
+back-end\tools.xml
+
+# Addon localization.
+front-end\locale\enUS.lua
+front-end\locale\deDE.lua
+front-end\locale\esES.lua
+front-end\locale\esMX.lua
+front-end\locale\esMX.lua
+front-end\locale\frFR.lua
+front-end\locale\itIT.lua
+front-end\locale\koKR.lua
+front-end\locale\ptBR.lua
+front-end\locale\ptPT.lua
+front-end\locale\ruRU.lua
+front-end\locale\zhCN.lua
+front-end\locale\zhTW.lua  
+
+# Addon API, configs and user defaults.
+front-end\config\api.lua
+front-end\config\colors.lua
+front-end\config\auras.lua
+front-end\config\configs.lua
+front-end\config\defaults.lua
+
+
+# Core module and addon menu. 
+front-end\core\root.lua
+front-end\core\gui.lua
+
+# Blizzard Modules.
+# These are modifications, not additions, 
+# as the game most commonly won't allow us to replace them. 
+front-end\modules\blizzard\blizzard-chatbubbles.lua
+front-end\modules\blizzard\blizzard-extrabars.lua
+front-end\modules\blizzard\blizzard-floaters.lua
+front-end\modules\blizzard\blizzard-fonts.lua
+front-end\modules\blizzard\blizzard-minimap.lua
+front-end\modules\blizzard\blizzard-objectivestracker.lua
+front-end\modules\blizzard\blizzard-popups.lua
+front-end\modules\blizzard\blizzard-timers.lua
+front-end\modules\blizzard\blizzard-tooltips.lua
+front-end\modules\blizzard\blizzard-worldmap.lua
+
+# Custom Modules.
+# These are made from scratch, and fully ours.
+front-end\modules\custom\bindings.lua
+front-end\modules\custom\bugs.lua
+front-end\modules\custom\durability.lua
+front-end\modules\custom\explorermode.lua
+front-end\modules\custom\tooltips.lua
+front-end\modules\custom\unitframes-azerite.lua
+front-end\modules\custom\unitframes-grouptools.lua
+front-end\modules\custom\unitframes-nameplates.lua
