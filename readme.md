@@ -64,5 +64,6 @@ coming soon
 <br>
 <br>
 <h2>To-Do List</h2>
-* Add native frame movement, so we don't need MoveAnything.
-* Rework Goldpaws chat module
+Add native frame movement, so we don't need MoveAnything.
+<br>
+Rework Goldpaws chat module
