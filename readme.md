@@ -28,33 +28,33 @@ Cleaned up various legacy items.
 <br>
 
 
-<h2>Downloads ---<span style="color:red;font-weight:700;font-size:20px">ITEMS IN RED ARE REQUIRED. Action Buttons are NOT changed by default.</span></h2>
-<span style="color:red;font-weight:700;font-size:15px">Open AzeriteUI </span>- You're already here! <a href="https://github.com/gh0stbrain/OpenAzeriteUI/archive/refs/heads/main.zip" target="_blank">Download</a>
+<h2>REQUIRED DOWNLOADS</h2>
+Open AzeriteUI - You're already here! <a href="https://github.com/gh0stbrain/OpenAzeriteUI/archive/refs/heads/main.zip" target="_blank">Download</a>
 <br>
-<span style="color:red;font-weight:700;font-size:15px">BugSack </span> - Adds a SACK to your Minimap to catch any bug popups you might get. <a href="https://www.curseforge.com/wow/addons/bugsack" target="_blank">Download</a>
+BugSack - Adds a SACK to your Minimap to catch any bug popups you might get. <a href="https://www.curseforge.com/wow/addons/bugsack" target="_blank">Download</a>
 </br>
-<span style="color:red;font-weight:700;font-size:15px">BugGrabber </span> - BugSack will not work without this. Period! <a href="https://www.curseforge.com/wow/addons/bug-grabber" target="_blank">Download</a>
+BugGrabber - BugSack will not work without this. Period! <a href="https://www.curseforge.com/wow/addons/bug-grabber" target="_blank">Download</a>
 <br>
-<span style="color:red;font-weight:700;font-size:15px">MoveAnything </span> - This is what allows us to move our frames, chat windows, etc. <a href="https://www.curseforge.com/wow/addons/move-anything" target="_blank">Download</a>
+MoveAnything - This is what allows us to move our frames, chat windows, etc. <a href="https://www.curseforge.com/wow/addons/move-anything" target="_blank">Download</a>
 <br>
 <hr>
 <br>
 <h2>For the full console experience:</h2>
-<span style="font-weight:700;font-size:15px">ConsolePort - </span>Adds features and functionality to World of Warcrafts built-in Gamepad support. <a href="https://www.curseforge.com/wow/addons/console-port" target="_blank">Download</a>
+ConsolePort - Adds features and functionality to World of Warcrafts built-in Gamepad support. <a href="https://www.curseforge.com/wow/addons/console-port" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">Immersion - </span>Makes questing more fun by presenting it similarly to an Action RPG.<a href="https://www.curseforge.com/wow/addons/immersion" target="_blank">Download</a>
+Immersion - Makes questing more fun by presenting it similarly to an Action RPG.<a href="https://www.curseforge.com/wow/addons/immersion" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">Narcissus - </span>Beautiful, highly-visible character information screen as well as amazing screenshot tool! <a href="https://www.curseforge.com/wow/addons/narcissus" target="_blank">Download</a>
+Narcissus - Beautiful, highly-visible character information screen as well as amazing screenshot tool! <a href="https://www.curseforge.com/wow/addons/narcissus" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">OmniCC - </span>Adds large cooldown text to your buttons.<a href="https://www.curseforge.com/wow/addons/omni-cc" target="_blank">Download</a>
+OmniCC - Adds large cooldown text to your buttons.<a href="https://www.curseforge.com/wow/addons/omni-cc" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">MiniMapButtonBag - </span>Collects addons with buttons into one icon. <a href="https://www.curseforge.com/wow/addons/mbb" target="_blank">Download</a>
+MiniMapButtonBag - Collects addons with buttons into one icon. <a href="https://www.curseforge.com/wow/addons/mbb" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">Chatter - </span>Customize and beautify the chat frame a little bit. <a href="https://www.curseforge.com/wow/addons/chatter" target="_blank">Download</a>
+Chatter - Customize and beautify the chat frame a little bit. <a href="https://www.curseforge.com/wow/addons/chatter" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">Masque - </span>Customizable action buttons, skinnable to look like original AzeriteUI buttons. <a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Download</a>
+Masque - Customizable action buttons, skinnable to look like original AzeriteUI buttons. <a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Download</a>
 <br>
-<span style=";font-weight:700;font-size:15px">Masque: Goldpaw Addon - </span>Plugin skins by the author of the original, to match frames. <a href="https://www.curseforge.com/wow/addons/masque_goldpaw" target="_blank">Download</a>
+Masque: Goldpaw Plugin - Plugin skins by the author of the original, to match frames. <a href="https://www.curseforge.com/wow/addons/masque_goldpaw" target="_blank">Download</a>
 <br>
 <hr>
 <br>
