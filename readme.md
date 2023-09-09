@@ -2,7 +2,7 @@
 <h2>Console-like World of Warcraft Frames</h2>
 <img src="https://i.imgur.com/HFvW5Hp.jpg"/>
 
-<h1>THIS MODIFICATION IS NOW DEPRICATED DUE TO UI CHANGES INTRODUCED BY BLIZZARD IN 10.0 --- THAT WAS FUN! :D</h1>
+<h1>THIS MODIFICATION IS NOW DEPRECATED DUE TO UI CHANGES INTRODUCED BY BLIZZARD IN 10.0 --- THAT WAS FUN! :D</h1>
 
 <h2>What is Open AzeriteUI?</h2>
 Open AzeriteUI is a moveable, scalable, more-compatible version of AzeriteUI by <span style="font-weight:700;font-size:15px"><a href="https://github.com/goldpaw" target="_top">Goldpaw</a></span>.
